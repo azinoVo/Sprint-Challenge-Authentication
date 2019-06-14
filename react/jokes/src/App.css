@@ -1,0 +1,16 @@
+.App {
+    text-align:center;
+}
+
+a {
+    margin: 2%;
+    padding:1%;
+}
+
+.credential-form {
+    margin-top: 3%;
+}
+
+.active {
+    background-color:lightblue;
+}
